@@ -146,7 +146,7 @@ print
 
 
 
-instabrute = Instabrute(Input('Please enter a username: '))
+instabrute = Instabrute(Input('Please enter a username:ano_nimoquirino'))
 
 try:
 	delayLoop = int(Input('[*] Please add delay between the bruteforce action (in seconds): ')) 
